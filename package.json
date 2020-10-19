@@ -1,0 +1,25 @@
+{
+  "name": "v3",
+  "version": "1.0.0",
+  "description": "v3",
+  "main": "app.js",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "method-override": "^3.0.0",
+    "moment": "^2.26.0",
+    "mongoose": "^5.9.10",
+    "mongoose-update-if-current": "^1.4.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danish Choudhary",
+  "license": "ISC"
+}
